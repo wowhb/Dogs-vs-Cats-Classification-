@@ -1,6 +1,5 @@
 training 자료실에는 25,000 개의 개와 고양이 이미지가 들어 있습니다. 
 이 파일에 대해 알고리즘을 학습하고 test1.zip (1 = dog, 0 = cat)의 레이블을 예측하십시오.
 
-
 The training archive contains 25,000 images of dogs and cats. 
 Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
