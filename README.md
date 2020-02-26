@@ -20,6 +20,11 @@ Kaggle은 다행스럽게도 재미와 연구를 위해이 데이터의 일부�
 
 
 training 자료에는 25,000 개의 개와 고양이 이미지가 들어 있습니다. 
+본 github 에 업로드한 train 데이터는 고양이 이미지100개 (총 12500개) , 개 이미지100개 (총 12500개) , 테스트 데이터 100개
+
+전체 데이터 다운로드
+https://www.kaggle.com/c/dogs-vs-cats/data
+
 이 파일에 대해 알고리즘을 학습하고 test1.zip (1 = dog, 0 = cat)의 레이블을 예측하십시오.
 
 
@@ -53,3 +58,4 @@ We extend our thanks to Microsoft Research for providing the data for this compe
 
 The training archive contains 25,000 images of dogs and cats. 
 Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
+full datasets down load : https://www.kaggle.com/c/dogs-vs-cats/data
