@@ -19,6 +19,9 @@ Kaggle은 다행스럽게도 재미와 연구를 위해이 데이터의 일부�
 이 경쟁에 대한 데이터를 제공해 주신 Microsoft Research에 감사드립니다.
 
 
+training 자료에는 25,000 개의 개와 고양이 이미지가 들어 있습니다. 
+이 파일에 대해 알고리즘을 학습하고 test1.zip (1 = dog, 0 = cat)의 레이블을 예측하십시오.
+
 
 # Dogs vs Cats (Classification)
 
@@ -47,3 +50,6 @@ Okay, we'll settle for the former.
 ## Acknowledgements
 We extend our thanks to Microsoft Research for providing the data for this competition.
 
+
+The training archive contains 25,000 images of dogs and cats. 
+Train your algorithm on these files and predict the labels for test1.zip (1 = dog, 0 = cat).
