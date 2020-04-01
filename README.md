@@ -25,7 +25,9 @@ training 자료에는 25,000 개의 개와 고양이 이미지가 들어 있습�
 전체 데이터 다운로드
 https://www.kaggle.com/c/dogs-vs-cats/data
 
-이 파일에 대해 알고리즘을 학습하고 test1.zip (1 = dog, 0 = cat)의 레이블을 예측하십시오.
+이 파일에 대해 알고리즘을 학습하고 test1.zip (1 = dog, 0 = cat)의 레이블을 예측하세요.
+
+작성자는 MovileNetv2,ResNet18 그리고 Sequencial 모델을 가지고 예측해보았습니다.
 
 
 # Dogs vs Cats (Classification)
